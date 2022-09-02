@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.timeline-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.main-heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+  text-align: center;
+  font-size: 26px;
+  font-weight: normal;
+}
+.main-para {
+  color: #2b237c;
+  font-size: 32px;
+  font-weight: bold;
+}

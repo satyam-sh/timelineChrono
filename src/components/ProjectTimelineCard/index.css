@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.image {
+  width: 100%;
+}
+.project-container {
+  display: flex;
+  flex-direction: column;
+}
+.project-title-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.clock-container {
+  display: flex;
+  align-items: center;
+}
+a {
+  align-self: flex-start;
+  cursor: pointer;
+  font-size: 16px;
+  color: #0967d2;
+  text-decoration: none;
+}
+.description {
+  color: #1e293b;
+}
+.icon-margin {
+  margin-right: 5px;
+}
